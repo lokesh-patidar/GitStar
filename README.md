@@ -12,7 +12,13 @@
  - Network call.
 
 ## Home Pages:
-![grocery1](https://user-images.githubusercontent.com/105616033/218976127-ca075c15-a66d-4d52-af29-807488e32033.png)
+![gitStar1](https://user-images.githubusercontent.com/105616033/223639559-46cbf1f6-9d23-44bd-bd4f-c1212745afd9.png)
+![gitStar2](https://user-images.githubusercontent.com/105616033/223639637-0b41b91f-2740-4058-9c07-e42ff01ce4f1.png)
+![gitStar5](https://user-images.githubusercontent.com/105616033/223639787-d76f4c23-1ab8-4e77-96aa-e3bf1753a84b.png)
+![gitStar6](https://user-images.githubusercontent.com/105616033/223639827-038d0e9d-704c-41cf-9c56-0f5d2250873a.png)
+![gitStar3](https://user-images.githubusercontent.com/105616033/223639869-2d59637a-1962-40c9-a02c-27a17cf987dc.png)
+![gitStar4](https://user-images.githubusercontent.com/105616033/223639902-26dc05fa-f399-40bd-add6-4449e49c1511.png)
+![gitStar5](https://user-images.githubusercontent.com/105616033/223639957-6272c712-3395-4ad8-baf1-0aadc6631a66.png)
 
 
 
